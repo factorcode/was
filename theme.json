@@ -39,7 +39,7 @@
 		"elements": {
 			"link": {
 				"color": {
-					"text": "var(--wp--preset--color--vivid-red)"
+					"text": "var(--wp--preset--color--luminous-vivid-orange)"
 				}
 			}
 		}
